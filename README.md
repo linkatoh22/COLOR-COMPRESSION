@@ -1,0 +1,2 @@
+- Input: Nhập vào tên tập tin ảnh mỗi lần chương trình thực thi
+- Output: Lựa chọn định dạng lưu ảnh đầu ra gồm: `png`, `pdf`
